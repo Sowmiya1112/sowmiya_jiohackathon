@@ -6,7 +6,7 @@ An experimental, decentralized social media web application based on Ethereum pl
 
 
 * [English](./README.md)
-* [中文](./README_CN.md)
+
 
 Demo: 
 
