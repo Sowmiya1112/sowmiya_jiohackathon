@@ -3,7 +3,7 @@
 > Recommend to try this project on **Ropsten Test Network**.
 
 An experimental, decentralized social media web application based on Ethereum platform.  
-实验性质的，基于以太坊的去中心化社交程序。
+
 
 * [English](./README.md)
 * [中文](./README_CN.md)
@@ -116,14 +116,6 @@ Hi @{ribbit} will notify the user `ribbit` this about post.
 
 For example: 
 
-```markdown
-@[mp4](https://www.w3schools.com/html/mov\_bbb.mp4)
-@[ogg](https://www.w3schools.com/html/mov\_bbb.ogg)
-@[youtube](ZE2HxTmxfrI)
-@[vimeo](269637018)
-@[vine](5AZm7bleEj5)
-@[bilibili](aid=23642605)
-```
 
 ## What will be saved to blockchain and what will not
 
@@ -157,12 +149,4 @@ $ npm run frontend:build
 
 then copy `./dist` to your server.
 
-## References
 
-* [web3.js](https://web3js.readthedocs.io/en/1.0/)
-
-
-## License 
-
-University of Illinois/NCSA
-Open Source License
