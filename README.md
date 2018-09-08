@@ -45,8 +45,7 @@ Smart Contract:
 	* [Developer section](#developer-section)
 		* [Development](#development)
 		* [Deployment](#deployment)
-	* [References](#references)
-	* [License](#license)
+	
 
 <!-- /code_chunk_output -->
 
