@@ -1,4 +1,4 @@
-# ribbit
+# ribbit A sound of frog
 
 > Recommend to try this project on **Ropsten Test Network**.
 
@@ -15,8 +15,8 @@ Demo:
 
 Smart Contract:
 
-* Main Ethereum Network [0xbbf856d36d04a80d9f526510ceba01ea27627488](https://etherscan.io/tx/0x9bf16c6c96cf3c7b4a8d21aa5f93f79873aba4969e23c92a8d281c5a9a1afa32)
-* Ropsten Test Network [0xd8cb86af02684b8ce9c756a6f93f407b0feb4c73](https://ropsten.etherscan.io/tx/0x46eaf39784fc3142b6bbd57385ccfa282300dc6d0cd086992dfc51c47a034896)
+* Main Ethereum Network [0xbbf856d36d04a80d9f526510ceba01ea27627488]
+* Ropsten Test Network [0xd8cb86af02684b8ce9c756a6f93f407b0feb4c73]
 
 ![](https://user-images.githubusercontent.com/1908863/39964114-7a7d8d20-5642-11e8-8d75-8a823240c36a.PNG)
 
@@ -34,28 +34,6 @@ Smart Contract:
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
-
-* [ribbit](#ribbit)
-	* [Usage](#usage)
-	* [Make a post](#make-a-post)
-		* [Post to topic](#post-to-topic)
-		* [Mention a user](#mention-a-user)
-		* [Embed videos](#embed-videos)
-	* [What will be saved to blockchain and what will not](#what-will-be-saved-to-blockchain-and-what-will-not)
-	* [Developer section](#developer-section)
-		* [Development](#development)
-		* [Deployment](#deployment)
-	
-
-<!-- /code_chunk_output -->
-
-## Usage
-
-1.  Install [MetaMask](https://metamask.io/) in your Chrome browser and launch it. Follow the MetaMask instructions and create an account.
-2.  Switch to `Ropsten Test Network`. Visit the faucet website listed below and request test ethers. Don't worry, they are fake ether coins.
-	* http://faucet.ropsten.be:3001/ and click `request 1 ether from faucet`.
-	* https://faucet.metamask.io/ and click `Send me 1 test ether!`
-3.  Visit http://shd101wyy.github.io/ribbit/ to start using ribbit. The first time you visit ribbit website, it will ask you to finish a signup. Simply finish the form and then click `Publish profile to blockchain` button to create your account. Wait for a few minutes until the transaction finishes, then refresh your browser.
 
 ![signup1](https://user-images.githubusercontent.com/1908863/40032214-ce4c5ac2-57b8-11e8-960c-490efb893258.PNG)
 
